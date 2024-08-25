@@ -1,0 +1,663 @@
+html home
+<!DOCTYPE html>
+<html>
+<head>
+<title>punya eqi</title>
+</head>
+<body>
+
+<h1>eqi perdana</h1>
+<p>XI RPL</p>
+
+</body>
+</html>
+
+html introduction
+<!DOCTYPE html>
+<html>
+<head>
+<title>eqi perdana</title>
+</head>
+<body>
+
+<h1>eqi</h1>
+<p>belajar coding</p>
+
+</body>
+</html>
+
+html editor
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+
+html basic
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>eqi perdana</h1>
+<p>saya eqi perdana</p>
+
+</body>
+</html>
+
+
+
+html elements
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>punya eqi</h1>
+<p>belajar html</p>
+
+</body>
+</html>
+
+
+html attribut
+<!DOCTYPE html>
+<html lang="en">>
+
+<body>
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+<p style="color:red;">saya eqi perdana 123</p>
+
+
+
+html heading
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="font-size:60px;">saya eqi</h1>
+<h1>saya eqi1</h1>
+<h2>saya eqi2</h2>
+<h3>saya eqi3</h3>
+<h4>saya eqi4</h4>
+<h5>saya eqi5</h5>
+<h6>saya eqi6</h6>
+
+
+
+html paragraf
+<p>eqi perdana</p>
+<p>eqi perdana</p>
+<h1>eqi perdana1</h1>
+<p>eqi perdana</p>
+<hr>
+<h2>rekayasa perangkat lunak2</h2>
+<p>eqi perdana</p>
+<hr>
+
+
+
+html styles
+<!DOCTYPE html>
+<html>
+<body>
+<body style="background-color:powderblue;">
+
+<h1>eqi perdana</h1>
+<p>eqi perdana</p>
+
+</body>
+
+
+
+html formatting
+<!DOCTYPE html>
+<html>
+<body>
+<b>eqi perdana</b>
+<strong>XI RPL hebat</strong>
+<i>rekayasa perangkat lunak</i>
+
+
+
+html quotations
+<!DOCTYPE html>
+<html>
+<body>
+<p>ngoding:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">saya sangat pusing klo soal ngoding</blockquote>
+
+
+html comments
+<!DOCTYPE html>
+<html>
+<body>
+<!-- This is a comment -->
+
+<p>eqi perdana.</p>
+
+<!-- Remember to add more information here -->
+
+
+
+htmml colors
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:Tomato;">eqi perdana</h1>
+<p style="color:DodgerBlue;">eqi</p>
+<p style="color:MediumSeaGreen;">eqi</p>
+<h1 style="background-color:rgb(255, 99, 71);">eqi</h1>
+<h1 style="background-color:#ff6347;">eqi</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">eqi</h1>
+
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">eqi</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">eqi</h1>
+
+
+
+html css
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
+
+html links
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<a href="default.asp">
+<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+
+
+
+
+html images
+<!DOCTYPE html>
+<html>
+<body>
+<img src="img_chania.jpg" alt="Flowers in eqi">
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
+
+
+html favicon
+<!DOCTYPE html>
+<html>
+<head>
+<title>eqi perdana</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+
+<h1>eqi ganteng</h1>
+<p>eqii rpl.</p>
+
+</body>
+</html>
+
+
+
+html page title
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Tutorial</title>
+</head>
+<body>
+
+The content of the document......
+
+</body>
+</html>
+
+
+
+html tables
+<!DOCTYPE html>
+<html>
+<head>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+
+
+
+html lists
+<!DOCTYPE html>
+<html>
+<head>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+
+
+
+html block & inline
+<!DOCTYPE html>
+<html>
+<head>
+<p>eqi perdana</p>
+<div>eqi</div>
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>subang</h2>
+  <p>subang adalah kota yang bagus dan menyenagkan</p>
+</div>
+
+
+
+
+
+html div
+<!DOCTYPE html>
+<html>
+<head>
+<div>
+  <h2>subang</h2>
+  <p>subang jawa barat.</p>
+  <p>subang mempunyai museum bersejarah.</p>
+</div>
+<style>
+div {
+  width:300px;
+  margin:auto;
+}
+</style>
+
+
+
+
+
+html classes
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="city">
+  <h2>subang</h2>
+  <p>subang pemandangannya bagus.</p>
+</div>
+
+<div class="city">
+  <h2>tangerang</h2>
+  <p>di tangerang sangat seru.</p>
+</div>
+
+<div class="city">
+  <h2>Tokyo</h2>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+html id
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1 id="saya eqi</h1>
+
+</body>
+</html>
+
+
+
+
+
+html iframes
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
+<p><a href="https://www.w3schools.com" 
+target="iframe_a">W3Schools.com</a></p>
+
+
+
+
+
+
+html javascript
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+<noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+
+
+
+
+html file paths
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain">
+<img src="images/picture.jpg" alt="Mountain">
+
+
+
+
+
+
+html head
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {background-color: powderblue;}
+  h1 {color: red;}
+  p {color: blue;}
+</style>
+  <title>eqi perdanaaaaa123</title>
+</head>
+<body>
+
+The content of the document......
+
+</body>
+</html>
+
+
+
+
+
+
+html layout
+
+-------
+
+
+
+html responsive
+<!DOCTYPE html>
+<html>
+<head>
+<picture>
+  <source srcset="img_smallflower.jpg" media="(max-width: 600px)">
+  <source srcset="img_flowers.jpg" media="(max-width: 1500px)">
+  <source srcset="flowers.jpg">
+  <img src="img_smallflower.jpg" alt="Flowers">
+</picture>
+
+
+
+
+
+
+html computercode 
+<!DOCTYPE html>
+<html>
+<head>
+<code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
+<code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
+
+
+
+
+
+
+html semantics
+<html>
+<head>
+<style>
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+</style>
+</head>
+<body>
+
+<article class="all-browsers">
+  <h1>Most Popular Browsers</h1>
+  <article class="browser">
+    <h2>Google Chrome</h2>
+    <p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
+  </article>
+  <article class="browser">
+    <h2>Mozilla Firefox</h2>
+    <p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018.</p>
+  </article>
+  <article class="browser">
+    <h2>Microsoft Edge</h2>
+    <p>Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer.</p>
+  </article>
+</article>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+html style guide
+<!DOCTYPE html>
+<html>
+<body>
+<p>eqi perdana0611.</p>
+</body>
+<section>
+  <p>eqi ganteng.
+  <p>aku eqi.
+</section>
+<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+<table class="striped">
+<table>
+  <tr>
+    <th>eqiperdana</th>
+    <th>saya tinggal di subang</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>sekolah di smkn2subang</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>jurusan rpl</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+html entities
+
+
+
+
+-------------------------
+
+
+
+
+
+html symbols
+<!DOCTYPE html>
+<html>
+<body>
+<p>I will display &euro;</p>
+<p>I will display &#8364;</p>
+<p>I will display &#x20AC;</p>
+
+
+
+
+
+
+html emojis
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
+
+<p>I will display A B C</p>
+<p>I will display &#65; &#66; &#67;</p>
+<h1>Sized Emojis</h1>
+
+<p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+html charsets
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta charset="Windows-1252">
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<meta charset="ISO-8859-1">
+
+
+
+
+
+
+
+
+
+html url encode
+<!DOCTYPE html>
+<html>
+scheme://prefix.domain:port/path/filename
+
+
+
+
+
+
+
+
+html vs.xhtml
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<input type="checkbox" name="vehicle" value="car" checked="checked" />
+<input type="text" name="lastname" disabled="disabled" />
+
+<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+  <title>Title of document</title>
+</head>
+<body>
+
+  some content here...
+
+</body>
+</html>
+
+
+
